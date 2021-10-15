@@ -1,5 +1,5 @@
-# site: https://auth0-template.webflow.io
-# pages: false
+site: https://auth0-template.webflow.io
+pages: false
 # OR
 # pages:
 #   ignore:
